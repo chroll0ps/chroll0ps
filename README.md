@@ -1,192 +1,261 @@
-&lt;!-- Animated Wave Header Banner --&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1F4E79,100:0EA5E9&amp;height=210&amp;section=header&amp;text=Anas%20Ennadif&amp;fontSize=56&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Cloud%20Data%20Engineering%20%E2%80%A2%20Big%20Data%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20MLOps&amp;descAlignY=62&amp;descSize=18&amp;animation=fadeIn&quot; width=&quot;100%&quot; alt=&quot;Anas Ennadif Banner&quot;/&gt;
-&lt;/p&gt;
+<!-- ==================== [ 00 ] NEO-BRUTALIST SVG HERO HEADER ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/brutal-hero.svg" alt="ANAS — Neo-Brutalist Hero Banner" />
+</div>
 
-&lt;!-- Animated Typing Tagline --&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://linkedin.com/in/anas-ennadif&quot;&gt;
-    &lt;img src=&quot;https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=780&amp;lines=Final-Year+Engineering+Student+%40+ISGA+Marrakech;Architecting+Cloud+Lakehouses+%26+Real-Time+Data+Pipelines;Building+Production+AI%2C+RAG%2C+Multimodal+%26+MLOps+Systems;Actively+Seeking+a+6-Month+PFE+Internship+(Feb+2027)&quot; alt=&quot;Typing SVG&quot; /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<!-- ==================== HIGH-CONTRAST TYPING TERMINAL BAR ==================== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=900&color=000000&background=FFE600&center=true&vCenter=true&width=900&height=46&lines=%3E+ARCHITECTING+END-TO-END+DATA+%26+GENAI+SYSTEMS;%3E+ENGINEERING+REAL-TIME+STREAMING+%26+RAG+PIPELINES;%3E+DESIGNING+HIGH-CONTRAST+FULL-STACK+EXPERIENCES;%3E+TURNING+RAW+TELEMETRY+INTO+INTELLIGENT+DECISIONS" alt="Typing SVG" />
+  </a>
+</div>
 
-&lt;!-- Contact &amp; Status Badges --&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;https://linkedin.com/in/anas-ennadif&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/LinkedIn-Anas%20Ennadif-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&quot; alt=&quot;LinkedIn&quot;/&gt;
-  &lt;/a&gt;
-  &lt;a href=&quot;mailto:anase3880@gmail.com&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Email-anase3880%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&quot; alt=&quot;Email&quot;/&gt;
-  &lt;/a&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Location-Marrakech%2C%20Morocco-1F4E79?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white&quot; alt=&quot;Location&quot;/&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Status-Open%20for%20PFE%20(Feb%202027)-10B981?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white&quot; alt=&quot;PFE Status&quot;/&gt;
-  &lt;img src=&quot;https://komarev.com/ghpvc/?username=chroll0ps&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=for-the-badge&quot; alt=&quot;Profile Views&quot;/&gt;
-&lt;/p&gt;
+<!-- ==================== INFINITE SCROLLING BRUTALIST TICKER ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/brutal-marquee.svg" alt="Infinite Scrolling Neo-Brutalist Ticker" />
+</div>
 
-## Architecture Profile
+<br/>
 
-```yaml
-engineer:
-  name: "Anas Ennadif"
-  github: "@chroll0ps"
-  role: "Final-Year State Engineering Student (AI, Big Data & Cloud Data Engineering)"
-  school: "Groupe ISGA — Marrakech, Morocco (2022–2027)"
-  mobility: "Morocco & International (PFE starting February 2027)"
+<!-- ==================== BRUTALIST SOCIAL & COMMAND BAR ==================== -->
+<p align="center">
+  <a href="https://linkedin.com/in/anas-ennadif">
+    <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/chroll0ps">
+    <img src="https://img.shields.io/badge/GITHUB-FFE600?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+  <a href="https://x.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/X_/_TWITTER-FF5E7E?style=for-the-badge&logo=x&logoColor=000000" alt="X" />
+  </a>
+  <a href="https://medium.com/@YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/MEDIUM-B8FF00?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-C084FC?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
+  </a>
+  <a href="mailto:anase3880@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFE600" alt="Email" />
+  </a>
+</p>
 
-current_focus:
-  - "End-to-End Cloud Data Platforms (AWS S3 -> Snowflake -> dbt Medallion -> Airflow -> OpenAI RAG/Text-to-SQL)"
-  - "Multimodal Deep Learning & SaaS Model Deployment (PyTorch, BERT, AWS SageMaker)"
-  - "Real-Time Streaming, Lakehouses & MLOps (Kafka, Spark, Databricks, Delta Lake, Kubernetes)"
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-MARRAKECH%2C_MOROCCO-0D0D0D?style=flat-square&labelColor=FFE600" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_%7C_BIG_DATA_%7C_DISTRIBUTED_SYSTEMS-0D0D0D?style=flat-square&labelColor=00F0FF" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_FLAGSHIP_SYSTEMS-0D0D0D?style=flat-square&labelColor=B8FF00" />
+</p>
 
-highlights:
-  leadership: "Software Engineering Team Lead @ CASAHOST (AI Smart Home & Property Platform)"
-  honors: "MACC CTF 2026 — Top 200 out of 1,200+ teams (830 pts)"
-  off_the_clock: ["Gym", "Boxing", "Reading"]
-```
+<br/>
 
-## Technical Ecosystem
+<!-- ==================== LIVE BACKGROUND COLOR-SHIFTING QUOTE SLAB ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/brutal-manifesto.svg" alt="Live Color-Shifting Neo-Brutalist Philosophy Slab" />
+</div>
 
-### Big Data, Streaming & Lakehouse
+---
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/PySpark-1F4E79?style=for-the-badge&amp;logo=python&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Kafka%20(Confluent)-231F20?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&amp;logo=apacheflink&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&amp;logo=databricks&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Iceberg-0F172A?style=for-the-badge&amp;logo=apache&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&amp;logo=dbt&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Apache%20Hop-3B82F6?style=for-the-badge&amp;logo=apache&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+## `[ 01 // EXECUTIVE SUMMARY ]`
 
-### Cloud, DevOps & Observability
+Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resilient data pipelines, production RAG engines, and high-craft web platforms. My work bridges distributed data infrastructure—**Medallion lakehouses, Kafka streaming, and Databricks**—with intuitive, high-contrast user interfaces. Great engineering merges mathematical rigor with unmistakable visual clarity.
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/AWS%20(S3%20|%20EC2%20|%20IAM%20|%20SageMaker)-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Microsoft%20Azure%20(ADF%20|%20Event%20Hubs%20|%20Blob)-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=prometheus&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&amp;logo=grafana&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Linux%20%26%20Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+> **`AXIOM_00:`** *"Simplicity is prerequisite for reliability. Complexity is easy to build; clarity is what scales."*
 
-### AI, Machine Learning, Deep Learning & Data Mining
+---
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/NLP%20|%20BERT%20|%20RAG%20|%20LLMs-1F4E79?style=for-the-badge&amp;logo=openai&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/MLOps-0EA5E9?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/IBM%20SPSS%20Statistics%20%26%20Modeler-054ADA?style=for-the-badge&amp;logo=ibm&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+## `[ 02 // CURRENT FOCUS & ENGINEERING SCALE ]`
 
-### Databases (SQL & NoSQL) & BI Visualization
+<div align="center">
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&amp;logo=apachecassandra&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Databricks%20BI-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+| `PILLAR` | `ACTIVE ARCHITECTURE` | `CORE ENGINE` |
+| :--- | :--- | :--- |
+| **`01 / LAKEHOUSE & GENAI`** | Automated **Medallion Architecture** (`Bronze → Silver → Gold`) feeding a hybrid **RAG + Text-to-SQL** assistant | `Apache Airflow` · `Azure Blob` · `Groq LLM` · `FastAPI` · `Next.js` |
+| **`02 / REAL-TIME STREAMING`** | High-throughput event ingestion and stateless micro-batch filtering with live BI telemetry | `Confluent Kafka` · `Spark Streaming` · `Databricks` · `PostgreSQL` |
+| **`03 / PRODUCT & FRAMEWORKS`** | Experimental TypeScript UI compilers, multimodal AI interfaces, and modular enterprise architectures | `TypeScript` · `React` · `Docker` · `Kubernetes` |
 
-### Languages, Backend, IoT & API Testing
+</div>
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/MQTT%20|%20HiveMQ%20|%20Mosquitto-660066?style=for-the-badge&amp;logo=eclipse-mosquitto&amp;logoColor=white&quot; /&gt;
-  &lt;img src=&quot;https://img.shields.io/badge/Swagger%20|%20Postman%20|%20Apidog-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+---
 
-## Flagship Engineering Projects
+## `[ 03 // TECHNOLOGY ECOSYSTEM ]`
 
-| Project | Domain | Architecture & Key Impact | Core Stack |
-| :--- | :--- | :--- | :--- |
-| **AI Cloud Data Platform** *(Ongoing)* | Cloud Data & GenAI | Loads **10M+ orders** from S3 to Snowflake, builds Bronze/Silver/Gold Medallion layers with dbt quality tests orchestrated via Airflow, and adds OpenAI **RAG** & **Text-to-SQL**. | `AWS S3` `Snowflake` `dbt` `Airflow` `OpenAI` |
-| **Multimodal Video Sentiment SaaS** *(Ongoing)* | Multimodal AI | SaaS platform on AWS SageMaker predicting video sentiment & emotion via frame extraction, audio features, **BERT** embeddings, and **PyTorch** multimodal fusion. | `PyTorch` `BERT` `AWS SageMaker` `FastAPI` |
-| **FinGuard** | Real-Time Streaming | End-to-end financial transaction monitoring & alerting pipeline delivering real-time anomaly detection and interactive **Databricks BI** dashboards. | `Kafka` `Spark` `Databricks` `Delta Lake` |
-| **Smart City Data Streaming** | Kappa IoT Streaming | Real-time urban IoT telemetry pipeline (transport & environment) built on **Kappa Architecture** with live **Power BI** KPI dashboards. | `Kafka` `Spark Streaming` `PostgreSQL` `Power BI` |
-| **Enterprise Medallion DWH** | Data Warehousing | Multi-layered **SQL Server** Data Warehouse (Bronze raw history, Silver cleansed/validated, Gold **Star Schema** marts modeled via MCD/MLD/MPD). | `SQL Server` `Star Schema` `Medallion` |
-| **CASAHOST Platform** *(Team Lead)* | AI, Backend & IoT | Multi-layer Smart Home & Property platform with NLP semantic intent processing, RBAC/tenant isolation, and real-time MQTT device control. | `Java 17` `Spring Boot` `FastAPI` `MQTT/HiveMQ` `Next.js` |
+<div align="center">
 
-## Certifications & Honors
+| `DOMAIN` | `TECHNOLOGIES & TOOLING` |
+| :--- | :--- |
+| **`AI, ML & LLMS`** | ![Python](https://img.shields.io/badge/PYTHON-FFE600?style=flat-square&logo=python&logoColor=000000) ![PyTorch](https://img.shields.io/badge/PYTORCH-FF5E7E?style=flat-square&logo=pytorch&logoColor=000000) ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-00F0FF?style=flat-square&logo=scikitlearn&logoColor=000000) ![Pandas](https://img.shields.io/badge/PANDAS-C084FC?style=flat-square&logo=pandas&logoColor=000000) ![Gemini](https://img.shields.io/badge/GEMINI_LLM-B8FF00?style=flat-square&logo=googlegemini&logoColor=000000) ![MLflow](https://img.shields.io/badge/MLFLOW-FFFFFF?style=flat-square&logo=mlflow&logoColor=000000) |
+| **`DATA ENGINEERING`** | ![Kafka](https://img.shields.io/badge/APACHE_KAFKA-0D0D0D?style=flat-square&logo=apachekafka&logoColor=FFE600) ![Spark](https://img.shields.io/badge/APACHE_SPARK-FF5E7E?style=flat-square&logo=apachespark&logoColor=000000) ![Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-00F0FF?style=flat-square&logo=apacheairflow&logoColor=000000) ![Databricks](https://img.shields.io/badge/DATABRICKS-FFE600?style=flat-square&logo=databricks&logoColor=000000) ![PowerBI](https://img.shields.io/badge/POWER_BI-B8FF00?style=flat-square&logo=powerbi&logoColor=000000) |
+| **`FULL-STACK & APIS`** | ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-00F0FF?style=flat-square&logo=typescript&logoColor=000000) ![React](https://img.shields.io/badge/REACT-FFE600?style=flat-square&logo=react&logoColor=000000) ![Next.js](https://img.shields.io/badge/NEXT.JS-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Angular](https://img.shields.io/badge/ANGULAR-FF5E7E?style=flat-square&logo=angular&logoColor=000000) ![Node.js](https://img.shields.io/badge/NODE.JS-B8FF00?style=flat-square&logo=nodedotjs&logoColor=000000) ![FastAPI](https://img.shields.io/badge/FASTAPI-00F0FF?style=flat-square&logo=fastapi&logoColor=000000) ![Spring](https://img.shields.io/badge/SPRING_BOOT-B8FF00?style=flat-square&logo=springboot&logoColor=000000) ![Laravel](https://img.shields.io/badge/LARAVEL-FF5E7E?style=flat-square&logo=laravel&logoColor=000000) |
+| **`DATABASES`** | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-00F0FF?style=flat-square&logo=postgresql&logoColor=000000) ![MongoDB](https://img.shields.io/badge/MONGODB-B8FF00?style=flat-square&logo=mongodb&logoColor=000000) ![Cassandra](https://img.shields.io/badge/CASSANDRA-FFE600?style=flat-square&logo=apachecassandra&logoColor=000000) ![Neo4j](https://img.shields.io/badge/NEO4J-C084FC?style=flat-square&logo=neo4j&logoColor=000000) ![Supabase](https://img.shields.io/badge/SUPABASE-B8FF00?style=flat-square&logo=supabase&logoColor=000000) ![Oracle](https://img.shields.io/badge/ORACLE-FF5E7E?style=flat-square&logo=oracle&logoColor=000000) |
+| **`CLOUD & DEVOPS`** | ![AWS](https://img.shields.io/badge/AWS-FFE600?style=flat-square&logo=amazonwebservices&logoColor=000000) ![OCI](https://img.shields.io/badge/ORACLE_CLOUD-FF5E7E?style=flat-square&logo=oracle&logoColor=000000) ![Azure](https://img.shields.io/badge/AZURE-00F0FF?style=flat-square&logo=microsoftazure&logoColor=000000) ![Docker](https://img.shields.io/badge/DOCKER-00F0FF?style=flat-square&logo=docker&logoColor=000000) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-C084FC?style=flat-square&logo=kubernetes&logoColor=000000) ![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-0D0D0D?style=flat-square&logo=githubactions&logoColor=FFE600) ![Linux](https://img.shields.io/badge/LINUX-B8FF00?style=flat-square&logo=linux&logoColor=000000) |
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;Cloud &amp; AI Certifications&lt;/h3&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;b&gt;Oracle Cloud Infrastructure (OCI)&lt;/b&gt; Architect Associate&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Oracle Cloud Infrastructure (OCI)&lt;/b&gt; Foundations Associate&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Databricks&lt;/b&gt; Generative AI Fundamentals&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Databricks&lt;/b&gt; AI Security Fundamentals&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;AWS&lt;/b&gt; Cloud Practitioner Essentials&lt;/li&gt;
-        &lt;li&gt;Python Data Science, ML &amp; Deep Learning (Udemy)&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/td&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;Competitions &amp; Leadership&lt;/h3&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;b&gt;MACC CTF 2026:&lt;/b&gt; Ranked &lt;b&gt;Top 200 out of 1,200+ teams&lt;/b&gt; (830 pts)&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Software Engineering Team Lead:&lt;/b&gt; Led backend, AI/NLP, and IoT architecture at &lt;b&gt;CASAHOST&lt;/b&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;b&gt;Data Modeling &amp; Quality:&lt;/b&gt; Medallion, Kappa, Star/Snowflake Schemas, MCD/MLD/MPD &amp; UML&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+</div>
 
-## GitHub Analytics & Activity
+---
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img height=&quot;170em&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=chroll0ps&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&quot; alt=&quot;GitHub Stats&quot;/&gt;
-  &lt;img height=&quot;170em&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0ps&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&quot; alt=&quot;Top Languages&quot;/&gt;
-&lt;/p&gt;
+<!-- ==================== NEO-BRUTALIST SVG SECTION HEADER ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/brutal-section-projects.svg" alt="Flagship Architectures and Featured Work" />
+</div>
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://streak-stats.demolab.com?user=chroll0ps&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=0EA5E9&amp;currStreakLabel=38BDF8&quot; alt=&quot;GitHub Streak&quot; /&gt;
-&lt;/p&gt;
+<br/>
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-readme-activity-graph.vercel.app/graph?username=chroll0ps&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;color=38BDF8&amp;line=0EA5E9&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&quot; width=&quot;98%&quot; alt=&quot;Activity Graph&quot;/&gt;
-&lt;/p&gt;
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/01-MEDALLION_AI_%26_HYBRID_RAG-FFE600?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>End-to-end containerized data lakehouse orchestrating Bronze, Silver, and Gold pipelines with automated LLM enrichment, vector embeddings, and a dual RAG + SQL conversational interface.</p>
+      <p>
+        <kbd>Airflow</kbd> <kbd>Azure</kbd> <kbd>Groq LLM</kbd> <kbd>FastAPI</kbd> <kbd>Next.js</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE ARCHITECTURE ↗ ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/02-SMART_CITY_STREAMING-00F0FF?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>Distributed IoT event streaming architecture ingesting live urban telemetry through Kafka and Spark Structured Streaming into PostgreSQL with live Power BI DirectQuery visualization.</p>
+      <p>
+        <kbd>Kafka</kbd> <kbd>Spark Streaming</kbd> <kbd>PostgreSQL</kbd> <kbd>Power BI</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE ARCHITECTURE ↗ ]</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/03-CHROLLOX_UI_COMPILER-FF5E7E?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>Experimental front-end UI framework and custom compiler engineered from scratch in TypeScript to explore reactive rendering primitives, AST compilation, and minimal runtime footprints.</p>
+      <p>
+        <kbd>TypeScript</kbd> <kbd>AST Compiler</kbd> <kbd>UI Systems</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE REPOSITORY ↗ ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/04-MINDFYAPP_MULTIMODAL_AI-B8FF00?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>Conversational goal-intelligence platform powered by Gemini Pro, combining multimodal voice-to-text processing, image journaling, and adaptive personal insights.</p>
+      <p>
+        <kbd>Gemini Pro</kbd> <kbd>Multimodal AI</kbd> <kbd>Full-Stack</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE REPOSITORY ↗ ]</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/05-EDUNEXUS_PREDICTIVE_ML-C084FC?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>Full-stack MERN intelligence platform integrating a Scikit-Learn Random Forest predictive engine with role-based KPI dashboards and automated early-warning diagnostics.</p>
+      <p>
+        <kbd>MERN Stack</kbd> <kbd>Scikit-Learn</kbd> <kbd>Predictive ML</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE REPOSITORY ↗ ]</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/06-CLOUD_STREAM_%26_MELODYMAC-FFE600?style=for-the-badge&labelColor=0D0D0D" /><br/><br/>
+      <p>Cloud-native Confluent Kafka → Databricks → Neon PostgreSQL streaming architecture alongside <b>MelodyMac</b>, an AI-enhanced full-stack cloud learning platform.</p>
+      <p>
+        <kbd>Confluent</kbd> <kbd>Databricks</kbd> <kbd>Neon PG</kbd> <kbd>Cloud AI</kbd>
+      </p>
+      <a href="https://github.com/chroll0ps?tab=repositories"><b>[ EXPLORE REPOSITORIES ↗ ]</b></a>
+    </td>
+  </tr>
+</table>
 
-&lt;!--
-  OPTIONAL: Animated Contribution Snake
-  Uncomment the block below once you add `.github/workflows/snake.yml` to your `chroll0ps/chroll0ps` repo:
+---
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;picture&gt;
-    &lt;source media=&quot;(prefers-color-scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake-dark.svg&quot; /&gt;
-    &lt;source media=&quot;(prefers-color-scheme: light)&quot; srcset=&quot;https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake.svg&quot; /&gt;
-    &lt;img alt=&quot;github-snake&quot; src=&quot;https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake-dark.svg&quot; /&gt;
-  &lt;/picture&gt;
-&lt;/p&gt;
---&gt;
+## `[ 05 // IMPACT & ENGINEERING FOOTPRINT ]`
 
-&lt;!-- Animated Footer Wave --&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;color=0:0EA5E9,50:1F4E79,100:0D1117&amp;height=110&amp;section=footer&quot; width=&quot;100%&quot; alt=&quot;Footer Wave&quot;/&gt;
-&lt;/p&gt;
+<div align="center">
+
+| `DIMENSION` | `MILESTONE` | `SCOPE` |
+| :--- | :---: | :--- |
+| **`ENTERPRISE DELIVERY`** | **`PRODUCTION SYSTEMS`** | Built React & Node.js features at **OCP** and architected business software workflows at **Radees** |
+| **`DATA & STREAMING`** | **`END-TO-END PIPELINES`** | Kafka Connect, Spark Structured Streaming, Airflow Orchestration, Databricks & Unity Catalog |
+| **`CLOUD & AI CERTS`** | **`MULTI-CLOUD CERTIFIED`** | Verified credentials across **Databricks**, **Oracle Cloud (OCI)**, **AWS**, and **AI / Deep Learning** |
+| **`ARCHITECTURE STYLE`** | **`MODULAR & HIGH-CONTRAST`** | Enterprise patterns, clean API contracts, neo-brutalist & Shadcn-inspired UX |
+
+</div>
+
+---
+
+## `[ 06 // LIVE GITHUB TELEMETRY & ANIMATIONS ]`
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chroll0ps&show_icons=true&bg_color=0D0D0D&title_color=FFE600&text_color=FFFFFF&icon_color=00F0FF&border_color=FFE600&border_radius=0&hide_border=false" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chroll0ps&layout=compact&bg_color=0D0D0D&title_color=00F0FF&text_color=FFFFFF&border_color=00F0FF&border_radius=0&hide_border=false" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chroll0ps&background=0D0D0D&border=B8FF00&border_radius=0&stroke=262626&ring=FFE600&fire=FF5E7E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B8FF00&sideLabels=00F0FF&dates=A3A3A3" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br/>
+  <!-- CUSTOM NEO-BRUTALIST PALETTE SNAKE (Activated by .github/workflows/snake.yml) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated Neo-Brutalist GitHub Contribution Snake" src="https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <br/>
+  <!-- SHARP HIGH-CONTRAST ACTIVITY GRAPH -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chroll0ps&bg_color=0D0D0D&color=FFE600&line=00F0FF&point=FF5E7E&area=true&area_color=1A1A1A&radius=0&hide_border=false" alt="Activity Graph" />
+</div>
+
+---
+
+## `[ 07 // VERIFIED CERTIFICATIONS & INDUSTRY RECOGNITION ]`
+
+<div align="center">
+
+| `TAG` | `CREDENTIAL / EXPERIENCE` | `ISSUER / ORG` | `DOMAIN & IMPACT` |
+| :---: | :--- | :---: | :--- |
+| **`GENAI`** | **Databricks Generative AI Fundamentals** | ![Databricks](https://img.shields.io/badge/DATABRICKS-FFE600?style=flat-square&logo=databricks&logoColor=000000) | LLM workflows, RAG architectures, vector search & Mosaic AI evaluation |
+| **`AI SEC`** | **Databricks AI Security Fundamentals** | ![Databricks](https://img.shields.io/badge/DATABRICKS-FF5E7E?style=flat-square&logo=databricks&logoColor=000000) | AI governance, Unity Catalog controls, data privacy & LLM threat defense |
+| **`CLOUD`** | **OCI Architect Associate** | ![Oracle](https://img.shields.io/badge/ORACLE_CLOUD-00F0FF?style=flat-square&logo=oracle&logoColor=000000) | High-availability cloud architecture, networking, IAM & distributed storage |
+| **`CLOUD`** | **OCI Foundations Associate** | ![Oracle](https://img.shields.io/badge/ORACLE_CLOUD-B8FF00?style=flat-square&logo=oracle&logoColor=000000) | Core cloud infrastructure, security posture & enterprise cloud operations |
+| **`CLOUD`** | **AWS Cloud Practitioner Essentials** | ![AWS](https://img.shields.io/badge/AWS-FFE600?style=flat-square&logo=amazonwebservices&logoColor=000000) | Cloud-native architectures, compute/storage scaling & Well-Architected principles |
+| **`AI/ML`** | **Data Science, ML & Deep Learning (3×)** | ![AI](https://img.shields.io/badge/3x_CERTIFIED-C084FC?style=flat-square&logoColor=000000) | PyTorch neural nets, Scikit-Learn predictive engines & statistical modeling |
+| **`PROD`** | **Software Engineering** | ![OCP](https://img.shields.io/badge/OCP_GROUP-0D0D0D?style=flat-square&logoColor=FFE600) | Shipped production React & Node.js modules in cross-functional Product & QA squads |
+| **`SYS`** | **Systems & Business Workflows** | ![Radees](https://img.shields.io/badge/RADEES-0D0D0D?style=flat-square&logoColor=00F0FF) | Translated complex operational requirements into structured software architectures |
+
+</div>
+
+---
+
+## `[ 08 // ENGINEERING PHILOSOPHY ]`
+
+> **`01.`** *"Data is the raw material of intelligence; architecture is what turns noise into signal."*
+>
+> **`02.`** *"We shape our systems, and thereafter our systems shape how fast we can think."*
+
+---
+
+## `[ 09 // LET'S BUILD SOMETHING ICONIC ]`
+
+I collaborate with engineers, founders, and technical teams on **AI/RAG Architectures**, **Real-Time Data Streaming**, **Open-Source Tooling**, and **High-Impact Architecture Reviews**.
+
+<div align="center">
+  <br/>
+  <a href="mailto:anase3880@gmail.com">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_START_A_CONVERSATION-FFE600?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+  <a href="https://linkedin.com/in/anas-ennadif">
+    <img src="https://img.shields.io/badge/%E2%9C%A6_CONNECT_ON_LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  </a>
+  <a href="https://github.com/chroll0ps?tab=repositories">
+    <img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_ALL_REPOSITORIES-B8FF00?style=for-the-badge&logo=github&logoColor=000000" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ==================== FOOTER: VIEWS COUNTER + LAST DEPLOY + NEO-BRUTALIST SVG ==================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chroll0ps&label=PROFILE+VIEWS&color=0D0D0D&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/chroll0ps/chroll0ps?label=LAST%20DEPLOY&color=FF5E7E&labelColor=0D0D0D&style=for-the-badge" alt="Last Updated" />
+</div>
+
+<div align="center">
+  <br/>
+  <img width="100%" src="./assets/brutal-footer.svg" alt="Neo-Brutalist Engineered For Scale Footer" />
+</div>
