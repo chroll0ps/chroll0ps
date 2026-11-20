@@ -170,24 +170,6 @@
 
 <br/>
 
-<!-- ==================== [ 05 ] IMPACT & ENGINEERING FOOTPRINT ==================== -->
-<div align="center">
-  <img width="100%" src="./assets/headers/sec-05-impact.svg" alt="05 Impact and Engineering Footprint" />
-</div>
-<br/>
-
-<div align="center">
-
-| `DIMENSION` | `MILESTONE` | `SCOPE` |
-| :--- | :---: | :--- |
-| **`ENTERPRISE DELIVERY`** | **`PRODUCTION SYSTEMS`** | Built React & Node.js features at **OCP** and architected business software workflows at **Radees** |
-| **`DATA & STREAMING`** | **`END-TO-END PIPELINES`** | Kafka Connect, Spark Structured Streaming, Airflow Orchestration, Databricks & Unity Catalog |
-| **`CLOUD & AI CERTS`** | **`MULTI-CLOUD CERTIFIED`** | Verified credentials across **Databricks**, **Oracle Cloud (OCI)**, **AWS**, and **AI / Deep Learning** |
-| **`ARCHITECTURE STYLE`** | **`MODULAR & HIGH-CONTRAST`** | Enterprise patterns, clean API contracts, neo-brutalist & Shadcn-inspired UX |
-
-</div>
-
-<br/>
 
 <!-- ==================== [ 06 ] LIVE GITHUB TELEMETRY & ANIMATIONS ==================== -->
 <div align="center">
