@@ -54,17 +54,18 @@
 
 <br/>
 
-<!-- ==================== [ 01 ] EXECUTIVE SUMMARY ==================== -->
+<!-- ==================== [ 01 ] EXECUTIVE SUMMARY + FLAGSHIP TERMINAL ==================== -->
 <div align="center">
   <img width="100%" src="./assets/headers/sec-01-summary.svg" alt="01 Executive Summary" />
 </div>
 <br/>
 
-Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resilient data pipelines, production RAG engines, and high-craft web platforms. My work bridges distributed data infrastructure—**Medallion lakehouses, Kafka streaming, and Databricks**—with intuitive, high-contrast user interfaces. Great engineering merges mathematical rigor with unmistakable visual clarity.
+<div align="center">
+  <img width="100%" src="./assets/brutal-terminal.svg" alt="Anas Interactive Neo-Brutalist Boot Terminal" />
+</div>
+<br/>
 
 > **`AXIOM_00:`** *"Simplicity is prerequisite for reliability. Complexity is easy to build; clarity is what scales."*
-
-<br/>
 
 <!-- ==================== [ 02 ] CURRENT FOCUS & ENGINEERING SCALE ==================== -->
 <div align="center">

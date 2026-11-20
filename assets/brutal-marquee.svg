@@ -1,0 +1,36 @@
+<svg viewBox="0 0 900 46" width="900" height="46" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes scrollTicker {
+      0%   { transform: translateX(0px); }
+      100% { transform: translateX(-1380px); }
+    }
+    .track {
+      animation: scrollTicker 18s linear infinite;
+    }
+    .ticker-text {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      font-size: 13.5px;
+      font-weight: 800;
+      fill: #FFFFFF;
+      letter-spacing: 1.5px;
+    }
+  </style>
+
+  <!-- Obsidian Frame with Heavy Border -->
+  <rect x="2" y="2" width="896" height="42" fill="#0D0D0D" stroke="#000000" stroke-width="4" />
+
+  <clipPath id="tickerClip">
+    <rect x="6" y="4" width="888" height="38" />
+  </clipPath>
+
+  <g clip-path="url(#tickerClip)">
+    <g class="track">
+      <text x="0" y="28" class="ticker-text">
+        <tspan fill="#FFE600">✦</tspan> MEDALLION LAKEHOUSE  <tspan fill="#00F0FF">✦</tspan> KAFKA & SPARK STREAMING  <tspan fill="#B8FF00">✦</tspan> DATABRICKS GENAI  <tspan fill="#FF5E7E">✦</tspan> OCI & AWS CLOUD  <tspan fill="#C084FC">✦</tspan> PRODUCTION RAG & SQL  <tspan fill="#FFE600">✦</tspan> TYPESCRIPT COMPILERS
+      </text>
+      <text x="1380" y="28" class="ticker-text">
+        <tspan fill="#FFE600">✦</tspan> MEDALLION LAKEHOUSE  <tspan fill="#00F0FF">✦</tspan> KAFKA & SPARK STREAMING  <tspan fill="#B8FF00">✦</tspan> DATABRICKS GENAI  <tspan fill="#FF5E7E">✦</tspan> OCI & AWS CLOUD  <tspan fill="#C084FC">✦</tspan> PRODUCTION RAG & SQL  <tspan fill="#FFE600">✦</tspan> TYPESCRIPT COMPILERS
+      </text>
+    </g>
+  </g>
+</svg>

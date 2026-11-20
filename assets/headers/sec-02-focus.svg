@@ -1,0 +1,51 @@
+<svg viewBox="0 0 900 72" width="900" height="72" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes slabShift {
+      0%, 28%  { fill: #00F0FF; }
+      33%, 61% { fill: #B8FF00; }
+      66%, 94% { fill: #FF5E7E; }
+      100%     { fill: #00F0FF; }
+    }
+    @keyframes scanBeam {
+      0%   { transform: translateX(-180px); }
+      100% { transform: translateX(800px); }
+    }
+    @keyframes barPulse {
+      0%, 100% { opacity: 0.25; }
+      50%      { opacity: 1; }
+    }
+    .idx-box { animation: slabShift 9s linear infinite; }
+    .scanner { animation: scanBeam 3.6s linear infinite; }
+    .b1      { animation: barPulse 1.5s ease-in-out infinite 0.0s; }
+    .b2      { animation: barPulse 1.5s ease-in-out infinite 0.3s; }
+    .b3      { animation: barPulse 1.5s ease-in-out infinite 0.6s; }
+    .mono    { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-weight: 800; }
+    .heading { font-family: 'Space Grotesk', 'Arial Black', Impact, sans-serif; font-weight: 900; letter-spacing: 1.6px; }
+  </style>
+
+  <!-- Hard Unblurred Neo-Brutalist Shadow -->
+  <rect x="11" y="11" width="882" height="54" fill="#000000" />
+
+  <!-- Obsidian Main Slab -->
+  <rect x="4" y="4" width="882" height="54" fill="#0D0D0D" stroke="#000000" stroke-width="4" />
+
+  <!-- Animated Color-Shifting Index Block -->
+  <rect class="idx-box" x="4" y="4" width="96" height="54" stroke="#000000" stroke-width="4" />
+  <text x="52" y="38" text-anchor="middle" class="mono" font-size="20" fill="#000000">[ 02 ]</text>
+
+  <!-- Section Title -->
+  <text x="122" y="38" class="heading" font-size="19.5" fill="#FFFFFF">CURRENT FOCUS &amp; ENGINEERING SCALE</text>
+
+  <!-- Gliding Bottom Neon Scanner -->
+  <clipPath id="scanClip">
+    <rect x="102" y="51" width="782" height="5" />
+  </clipPath>
+  <g clip-path="url(#scanClip)">
+    <rect class="scanner" x="102" y="52" width="160" height="4" fill="#00F0FF" />
+  </g>
+
+  <!-- Animated 3-Bar Right Telemetry Pulse -->
+  <rect class="b1" x="820" y="16" width="12" height="28" fill="#00F0FF" />
+  <rect class="b2" x="838" y="16" width="12" height="28" fill="#B8FF00" />
+  <rect class="b3" x="856" y="16" width="12" height="28" fill="#FF5E7E" />
+</svg>
