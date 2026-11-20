@@ -46,14 +46,6 @@
 </p>
 
 <br/>
-
-<!-- ==================== LIVE BACKGROUND COLOR-SHIFTING QUOTE SLAB ==================== -->
-<div align="center">
-  <img width="100%" src="./assets/brutal-manifesto.svg" alt="Live Color-Shifting Neo-Brutalist Philosophy Slab" />
-</div>
-
-<br/>
-
 <!-- ==================== [ 01 ] EXECUTIVE SUMMARY + FLAGSHIP TERMINAL ==================== -->
 <div align="center">
   <img width="100%" src="./assets/headers/sec-01-summary.svg" alt="01 Executive Summary" />
