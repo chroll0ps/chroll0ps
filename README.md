@@ -52,17 +52,25 @@
   <img width="100%" src="./assets/brutal-manifesto.svg" alt="Live Color-Shifting Neo-Brutalist Philosophy Slab" />
 </div>
 
----
+<br/>
 
-## `[ 01 // EXECUTIVE SUMMARY ]`
+<!-- ==================== [ 01 ] EXECUTIVE SUMMARY ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-01-summary.svg" alt="01 Executive Summary" />
+</div>
+<br/>
 
 Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resilient data pipelines, production RAG engines, and high-craft web platforms. My work bridges distributed data infrastructure—**Medallion lakehouses, Kafka streaming, and Databricks**—with intuitive, high-contrast user interfaces. Great engineering merges mathematical rigor with unmistakable visual clarity.
 
 > **`AXIOM_00:`** *"Simplicity is prerequisite for reliability. Complexity is easy to build; clarity is what scales."*
 
----
+<br/>
 
-## `[ 02 // CURRENT FOCUS & ENGINEERING SCALE ]`
+<!-- ==================== [ 02 ] CURRENT FOCUS & ENGINEERING SCALE ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-02-focus.svg" alt="02 Current Focus and Engineering Scale" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -74,9 +82,13 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
 
 </div>
 
----
+<br/>
 
-## `[ 03 // TECHNOLOGY ECOSYSTEM ]`
+<!-- ==================== [ 03 ] TECHNOLOGY ECOSYSTEM ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-03-tech.svg" alt="03 Technology Ecosystem" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -90,13 +102,12 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
 
 </div>
 
----
+<br/>
 
-<!-- ==================== NEO-BRUTALIST SVG SECTION HEADER ==================== -->
+<!-- ==================== [ 04 ] FLAGSHIP ARCHITECTURES & FEATURED WORK ==================== -->
 <div align="center">
-  <img width="100%" src="./assets/brutal-section-projects.svg" alt="Flagship Architectures and Featured Work" />
+  <img width="100%" src="./assets/headers/sec-04-projects.svg" alt="04 Flagship Architectures and Featured Work" />
 </div>
-
 <br/>
 
 <table>
@@ -156,9 +167,13 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
   </tr>
 </table>
 
----
+<br/>
 
-## `[ 05 // IMPACT & ENGINEERING FOOTPRINT ]`
+<!-- ==================== [ 05 ] IMPACT & ENGINEERING FOOTPRINT ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-05-impact.svg" alt="05 Impact and Engineering Footprint" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -171,9 +186,13 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
 
 </div>
 
----
+<br/>
 
-## `[ 06 // LIVE GITHUB TELEMETRY & ANIMATIONS ]`
+<!-- ==================== [ 06 ] LIVE GITHUB TELEMETRY & ANIMATIONS ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-06-telemetry.svg" alt="06 Live GitHub Telemetry and Animations" />
+</div>
+<br/>
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=chroll0ps&show_icons=true&bg_color=0D0D0D&title_color=FFE600&text_color=FFFFFF&icon_color=00F0FF&border_color=FFE600&border_radius=0&hide_border=false" alt="GitHub Stats" />
@@ -187,7 +206,7 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
 
 <div align="center">
   <br/>
-  <!-- CUSTOM NEO-BRUTALIST PALETTE SNAKE (Activated by .github/workflows/snake.yml) -->
+  <!-- CUSTOM NEO-BRUTALIST PALETTE SNAKE -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chroll0ps/chroll0ps/output/github-contribution-grid-snake.svg" />
@@ -201,9 +220,13 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chroll0ps&bg_color=0D0D0D&color=FFE600&line=00F0FF&point=FF5E7E&area=true&area_color=1A1A1A&radius=0&hide_border=false" alt="Activity Graph" />
 </div>
 
----
+<br/>
 
-## `[ 07 // VERIFIED CERTIFICATIONS & INDUSTRY RECOGNITION ]`
+<!-- ==================== [ 07 ] VERIFIED CERTIFICATIONS & RECOGNITION ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-07-certs.svg" alt="07 Verified Certifications and Recognition" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -220,17 +243,25 @@ Systems-minded **AI & Data Engineer** and **Full-Stack Architect** building resi
 
 </div>
 
----
+<br/>
 
-## `[ 08 // ENGINEERING PHILOSOPHY ]`
+<!-- ==================== [ 08 ] ENGINEERING PHILOSOPHY ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-08-philosophy.svg" alt="08 Engineering Philosophy" />
+</div>
+<br/>
 
 > **`01.`** *"Data is the raw material of intelligence; architecture is what turns noise into signal."*
 >
 > **`02.`** *"We shape our systems, and thereafter our systems shape how fast we can think."*
 
----
+<br/>
 
-## `[ 09 // LET'S BUILD SOMETHING ICONIC ]`
+<!-- ==================== [ 09 ] LET'S BUILD SOMETHING ICONIC ==================== -->
+<div align="center">
+  <img width="100%" src="./assets/headers/sec-09-connect.svg" alt="09 Lets Build Something Iconic" />
+</div>
+<br/>
 
 I collaborate with engineers, founders, and technical teams on **AI/RAG Architectures**, **Real-Time Data Streaming**, **Open-Source Tooling**, and **High-Impact Architecture Reviews**.
 
