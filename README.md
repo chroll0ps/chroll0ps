@@ -6,7 +6,7 @@
 <!-- ==================== HIGH-CONTRAST TYPING TERMINAL BAR ==================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=900&color=000000&background=FFE600&center=true&vCenter=true&width=900&height=46&lines=%3E+ARCHITECTING+END-TO-END+DATA+%26+GENAI+SYSTEMS;%3E+ENGINEERING+REAL-TIME+STREAMING+%26+RAG+PIPELINES;%3E+DESIGNING+HIGH-CONTRAST+FULL-STACK+EXPERIENCES;%3E+TURNING+RAW+TELEMETRY+INTO+INTELLIGENT+DECISIONS" alt="Typing SVG" />
+    <img src="./assets/brutal-marquee.svg" alt="Typing SVG" />
   </a>
 </div>
 
