@@ -1,72 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 265" width="900" height="265">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
   <style>
-    @keyframes barColorShift {
-      0%, 22%   { fill: #FFE600; }
-      25%, 47%  { fill: #00F0FF; }
-      50%, 72%  { fill: #B8FF00; }
-      75%, 97%  { fill: #FF5E7E; }
-      100%      { fill: #FFE600; }
+    @keyframes spinCW {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
     }
-    @keyframes accentShift {
-      0%, 22%   { fill: #FF5E7E; }
-      25%, 47%  { fill: #FFE600; }
-      50%, 72%  { fill: #C084FC; }
-      75%, 97%  { fill: #00F0FF; }
-      100%      { fill: #FF5E7E; }
+    @keyframes spinCCW {
+      from { transform: rotate(360deg); }
+      to   { transform: rotate(0deg); }
     }
     @keyframes blinkLed {
       0%, 49%   { opacity: 1; }
       50%, 100% { opacity: 0.15; }
     }
-    @keyframes spinSlow {
-      from { transform: rotate(0deg); }
-      to   { transform: rotate(360deg); }
+    @keyframes stripShift {
+      0%, 24%  { fill: #FFE600; }
+      25%, 49% { fill: #00F0FF; }
+      50%, 74% { fill: #B8FF00; }
+      75%, 99% { fill: #FF5E7E; }
+      100%     { fill: #FFE600; }
     }
-    .topbar       { animation: barColorShift 10s linear infinite; }
-    .accent-block { animation: accentShift 10s linear infinite; }
-    .led          { animation: blinkLed 1.4s steps(1) infinite; }
-    .spinner      { transform-origin: 792px 150px; animation: spinSlow 14s linear infinite; }
-    .title        { font-family: 'Space Grotesk', 'Arial Black', Impact, sans-serif; font-weight: 900; letter-spacing: 3px; }
-    .mono         { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-weight: 800; }
+    @keyframes glitchShift {
+      0%, 88%, 100% { transform: translate(0px, 0px); }
+      90%           { transform: translate(4px, -2px); }
+      93%           { transform: translate(-3px, 2px); }
+      96%           { transform: translate(2px, 0px); }
+    }
+    @keyframes scanBeam {
+      0%   { transform: translateY(0px); opacity: 0.22; }
+      50%  { opacity: 0.35; }
+      100% { transform: translateY(218px); opacity: 0.05; }
+    }
+    .orbit-cw  { transform-origin: 746px 132px; animation: spinCW 18s linear infinite; }
+    .orbit-ccw { transform-origin: 746px 132px; animation: spinCCW 12s linear infinite; }
+    .led       { animation: blinkLed 1.3s steps(1) infinite; }
+    .strip     { animation: stripShift 10s linear infinite; }
+    .glitch    { animation: glitchShift 5s ease-in-out infinite; }
+    .scanner   { animation: scanBeam 4.5s linear infinite; }
+    .title     { font-family: 'Space Grotesk', 'Arial Black', Impact, sans-serif; font-weight: 900; letter-spacing: 3px; }
+    .mono      { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-weight: 800; }
   </style>
 
-  <rect x="16" y="16" width="874" height="238" fill="#000000" />
-  <rect x="6" y="6" width="874" height="238" fill="#FFFDF5" stroke="#000000" stroke-width="4" />
+  <!-- Hard Unblurred Offset Shadow -->
+  <rect x="14" y="14" width="876" height="256" fill="#000000" />
 
-  <line x1="8" y1="96" x2="878" y2="96" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="8" y1="144" x2="878" y2="144" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="8" y1="192" x2="878" y2="192" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="180" y1="48" x2="180" y2="242" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="360" y1="48" x2="360" y2="242" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="540" y1="48" x2="540" y2="242" stroke="#EBE6D7" stroke-width="1" />
-  <line x1="720" y1="48" x2="720" y2="242" stroke="#EBE6D7" stroke-width="1" />
+  <!-- Left Main Obsidian Canvas -->
+  <rect x="6" y="6" width="604" height="256" fill="#0D0D0D" stroke="#000000" stroke-width="4" />
 
-  <rect class="topbar" x="6" y="6" width="874" height="42" stroke="#000000" stroke-width="4" />
+  <!-- Subtle Architectural Grid on Left Canvas -->
+  <line x1="8" y1="88" x2="608" y2="88" stroke="#1A1A1A" stroke-width="1" />
+  <line x1="8" y1="142" x2="608" y2="142" stroke="#1A1A1A" stroke-width="1" />
+  <line x1="8" y1="196" x2="608" y2="196" stroke="#1A1A1A" stroke-width="1" />
+  <line x1="156" y1="42" x2="156" y2="260" stroke="#1A1A1A" stroke-width="1" />
+  <line x1="306" y1="42" x2="306" y2="260" stroke="#1A1A1A" stroke-width="1" />
+  <line x1="456" y1="42" x2="456" y2="260" stroke="#1A1A1A" stroke-width="1" />
 
-  <rect x="24" y="18" width="16" height="16" fill="#FF5E7E" stroke="#000000" stroke-width="3" />
-  <rect x="48" y="18" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="3" />
-  <rect x="72" y="18" width="16" height="16" fill="#000000" stroke="#000000" stroke-width="3" />
+  <!-- Live Radar Scanline -->
+  <rect class="scanner" x="8" y="42" width="600" height="2.5" fill="#00F0FF" />
 
-  <text x="108" y="32" class="mono" font-size="13" fill="#000000" letter-spacing="1.5">SYS://CHROLL0PS // ARCHITECTURE_NODE</text>
+  <!-- Top Left Micro-Header Bar -->
+  <rect x="6" y="6" width="604" height="36" fill="#161616" stroke="#000000" stroke-width="4" />
+  <rect class="strip" x="6" y="6" width="14" height="36" stroke="#000000" stroke-width="4" />
+  <circle class="led" cx="36" cy="24" r="4.5" fill="#B8FF00" />
+  <text x="50" y="28" class="mono" font-size="11.5" fill="#FFFFFF" letter-spacing="1.5">ARCH_NODE // 001 - SYSTEMS ENGINEERING</text>
+  <text x="594" y="28" text-anchor="end" class="mono" font-size="11" fill="#64748B">REV 2026.11</text>
 
-  <rect x="706" y="14" width="156" height="25" fill="#0D0D0D" stroke="#000000" stroke-width="2" />
-  <circle class="led" cx="722" cy="26.5" r="5" fill="#B8FF00" />
-  <text x="736" y="31" class="mono" font-size="11.5" fill="#FFFFFF" letter-spacing="1">ONLINE // ACTIVE</text>
+  <!-- Kinetic Chromatic Hero Name: ANAS ENNADIF -->
+  <text x="38" y="99" class="title glitch" font-size="48" fill="#FF5E7E">ANAS</text>
+  <text x="34" y="96" class="title" font-size="48" fill="#00F0FF">ANAS</text>
+  <text x="31" y="93" class="title" font-size="48" fill="#FFFFFF">ANAS</text>
 
-  <text x="48" y="144" class="title accent-block" font-size="78">ANAS</text>
-  <text x="42" y="138" class="title" font-size="78" fill="#000000">ANAS</text>
+  <text x="38" y="147" class="title glitch" font-size="48" fill="#FF5E7E">ENNADIF</text>
+  <text x="34" y="144" class="title" font-size="48" fill="#00F0FF">ENNADIF</text>
+  <text x="31" y="141" class="title" font-size="48" fill="#FFFFFF">ENNADIF</text>
 
-  <rect x="336" y="96" width="142" height="32" fill="#000000" />
-  <rect x="332" y="92" width="142" height="32" fill="#00F0FF" stroke="#000000" stroke-width="3" />
-  <text x="403" y="113" text-anchor="middle" class="mono" font-size="13.5" fill="#000000">@CHROLL0PS</text>
-
-  <rect x="48" y="168" width="560" height="42" fill="#000000" />
-  <rect x="42" y="162" width="560" height="42" fill="#0D0D0D" stroke="#000000" stroke-width="3" />
-  <text x="58" y="189" class="mono" font-size="15.5" fill="#FFE600" letter-spacing="1">AI + DATA ENGINEERING // FULL-STACK ENGINEER</text>
-
-  <g class="spinner">
-    <polygon points="792,92 806,132 848,128 816,154 834,192 792,172 750,192 768,154 736,128 778,132" fill="#FFE600" stroke="#000000" stroke-width="4" stroke-linejoin="miter" />
+  <!-- Tilted Neo-Brutalist Stamp Badge -->
+  <g transform="rotate(-3 482 102)">
+    <rect x="394" y="86" width="180" height="36" fill="#000000" />
+    <rect x="389" y="81" width="180" height="36" fill="#B8FF00" stroke="#000000" stroke-width="3.5" />
+    <text x="479" y="104" text-anchor="middle" class="mono" font-size="14" fill="#000000" letter-spacing="1.5">@CHROLL0PS</text>
   </g>
-  <circle cx="792" cy="150" r="18" fill="#000000" />
-  <text x="792" y="155" text-anchor="middle" class="mono" font-size="12" fill="#B8FF00">AI</text>
+
+  <!-- Role Subtitle Strip -->
+  <rect x="32" y="158" width="546" height="30" fill="#1A1A1A" stroke="#FFE600" stroke-width="2" />
+  <rect x="32" y="158" width="8" height="30" fill="#FFE600" />
+  <text x="50" y="177" class="mono" font-size="13" fill="#FFE600" letter-spacing="1.1">AI + DATA ENGINEERING // FULL-STACK ENGINEER</text>
+
+  <!-- Bottom 3-Pillar Brutalist Chips -->
+  <rect x="32" y="204" width="174" height="38" fill="#141414" stroke="#00F0FF" stroke-width="2.5" />
+  <text x="44" y="219" class="mono" font-size="9.5" fill="#00F0FF">01 // GENAI</text>
+  <text x="44" y="234" class="mono" font-size="11" fill="#FFFFFF">LAKEHOUSE + RAG ..</text>
+
+  <rect x="218" y="204" width="174" height="38" fill="#141414" stroke="#B8FF00" stroke-width="2.5" />
+  <text x="230" y="219" class="mono" font-size="9.5" fill="#B8FF00">02 // STREAM</text>
+  <text x="230" y="234" class="mono" font-size="11" fill="#FFFFFF">KAFKA + SPARK ..</text>
+
+  <rect x="404" y="204" width="174" height="38" fill="#141414" stroke="#FF5E7E" stroke-width="2.5" />
+  <text x="416" y="219" class="mono" font-size="9.5" fill="#FF5E7E">03 // SYSTEMS</text>
+  <text x="416" y="234" class="mono" font-size="11" fill="#FFFFFF">NEXT + FASTAPI ..</text>
+
+  <!-- ==================== RIGHT ACID YELLOW RADAR PANEL ==================== -->
+  <rect x="610" y="6" width="272" height="256" fill="#FFE600" stroke="#000000" stroke-width="4" />
+
+  <!-- Right Panel Top Black Header -->
+  <rect x="610" y="6" width="272" height="36" fill="#0D0D0D" stroke="#000000" stroke-width="4" />
+  <text x="746" y="28" text-anchor="middle" class="mono" font-size="11.5" fill="#FFE600" letter-spacing="1.5">CORE // RADAR_HUD</text>
+
+  <!-- Static Crosshair Guides -->
+  <line x1="636" y1="132" x2="856" y2="132" stroke="#000000" stroke-width="1.5" stroke-dasharray="4 4" />
+  <line x1="746" y1="54" x2="746" y2="210" stroke="#000000" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Outer Clockwise Rotating Ring + Orbital Nodes -->
+  <g class="orbit-cw">
+    <circle cx="746" cy="132" r="64" fill="none" stroke="#000000" stroke-width="3.5" stroke-dasharray="18 8 6 8" />
+    <rect x="740" y="62" width="12" height="12" fill="#FF5E7E" stroke="#000000" stroke-width="2.5" />
+    <rect x="740" y="190" width="12" height="12" fill="#00F0FF" stroke="#000000" stroke-width="2.5" />
+  </g>
+
+  <!-- Inner Counter-Clockwise Rotating Diamond Frame -->
+  <g class="orbit-ccw">
+    <rect x="712" y="98" width="68" height="68" fill="none" stroke="#000000" stroke-width="3.5" />
+    <circle cx="712" cy="98" r="5" fill="#B8FF00" stroke="#000000" stroke-width="2" />
+    <circle cx="780" cy="166" r="5" fill="#FFFFFF" stroke="#000000" stroke-width="2" />
+  </g>
+
+  <!-- Center Solid Core Box -->
+  <rect x="723" y="109" width="46" height="46" fill="#0D0D0D" stroke="#000000" stroke-width="3.5" />
+  <text x="746" y="129" text-anchor="middle" class="mono" font-size="13" fill="#B8FF00">AI</text>
+  <text x="746" y="145" text-anchor="middle" class="mono" font-size="10" fill="#FFFFFF">CORE</text>
+
+  <!-- Bottom Telemetry Plate on Right Panel -->
+  <rect x="630" y="218" width="236" height="32" fill="#000000" />
+  <rect x="626" y="214" width="236" height="32" fill="#0D0D0D" stroke="#000000" stroke-width="3" />
+  <text x="744" y="234" text-anchor="middle" class="mono" font-size="11" fill="#FFFFFF" letter-spacing="1">MARRAKECH, MA // <tspan fill="#B8FF00">ONLINE</tspan></text>
 </svg>
