@@ -65,7 +65,7 @@
   <text x="401" y="72" text-anchor="middle" class="title" font-size="29" fill="#FFFFFF">ANAS ENNADIF</text>
 
   <!-- Role Subtitle -->
-  <text x="402" y="100" text-anchor="middle" class="mono" font-size="11.5" fill="#FFE600" letter-spacing="1.2">CLOUD DATA & AI ENGINEER </text>
+  <text x="402" y="100" text-anchor="middle" class="mono" font-size="11.5" fill="#FFE600" letter-spacing="1.2">CLOUD DATA + AI ENGINEER </text>
 
   <!-- Floating Handle Pill -->
   <rect x="466" y="16" width="124" height="24" rx="12" fill="#000000" />
