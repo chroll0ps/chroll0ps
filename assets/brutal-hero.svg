@@ -47,7 +47,7 @@
   <rect x="48" y="18" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="3" />
   <rect x="72" y="18" width="16" height="16" fill="#000000" stroke="#000000" stroke-width="3" />
 
-  <text x="108" y="32" class="mono" font-size="13" fill="#000000" letter-spacing="1.5">SYS://CHROLL0PS // FLAGSHIP_ARCHITECTURE_NODE</text>
+  <text x="108" y="32" class="mono" font-size="13" fill="#000000" letter-spacing="1.5">SYS://CHROLL0PS // ARCHITECTURE_NODE</text>
 
   <rect x="706" y="14" width="156" height="25" fill="#0D0D0D" stroke="#000000" stroke-width="2" />
   <circle class="led" cx="722" cy="26.5" r="5" fill="#B8FF00" />
@@ -62,7 +62,7 @@
 
   <rect x="48" y="168" width="560" height="42" fill="#000000" />
   <rect x="42" y="162" width="560" height="42" fill="#0D0D0D" stroke="#000000" stroke-width="3" />
-  <text x="58" y="189" class="mono" font-size="15.5" fill="#FFE600" letter-spacing="1">AI + DATA SYSTEMS ARCHITECT // FULL-STACK ENGINEER</text>
+  <text x="58" y="189" class="mono" font-size="15.5" fill="#FFE600" letter-spacing="1">AI + DATA ENGINEERING // FULL-STACK ENGINEER</text>
 
   <g class="spinner">
     <polygon points="792,92 806,132 848,128 816,154 834,192 792,172 750,192 768,154 736,128 778,132" fill="#FFE600" stroke="#000000" stroke-width="4" stroke-linejoin="miter" />
